@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+this is a joke server that my friends made for us to mess around
 <!--
 **Valheim-anelsex-server/Valheim-anelsex-server** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
